@@ -9,7 +9,7 @@ redirect_from:
 <br>
 I am a Group Lead in the AI for Health (AI4Health) direction at Lingang Lab. This initiative focuses on applying deep learning with national real-world medical data to solve practical problems in drug discovery and medical informatics.
 
-<span style="color:SkyBlue">袁博，2026年全职加入临港国家实验室做医疗信息大组的方向负责人。主要的方向是将AI应用在大规模临床数据上，在国家队层面建立大模型助力药物开发和国家级AI辅助原子化健康管理平台。团队快速扩张中，所以[招人](URL)，从RA、研究生、博后到独立PI都招。
+<span style="color:SkyBlue">袁博，2026年全职加入临港国家实验室做医疗信息大组的方向负责人。主要的方向是将AI应用在大规模临床数据上，在国家队层面建立大模型助力药物开发和国家级AI辅助原子化健康管理平台。团队快速扩张中，所以[招人](/recruiting/)，从RA、研究生、博后到独立PI都招。
 
 Our current work involves building and scaling AI models that integrate genomic data with clinical insights to accelerate therapeutic development. 
 
